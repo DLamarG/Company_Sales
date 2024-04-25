@@ -36,7 +36,8 @@ create table Employees (
 	EmpState varchar (20),
 	EmpZipCode varchar (20),
 	EmpAreaCode varchar (20),
-	EmpPhoneNumber varchar (20)
+	EmpPhoneNumber varchar (20),
+	EmpBirthDate varchar (20)
 	
 );
 
