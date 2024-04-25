@@ -1,6 +1,7 @@
 
+CREATE DATABASE sales;
 
-
+\connect sales
 
 DROP TABLE IF EXISTS Customers CASCADE;
 DROP TABLE IF EXISTS Employees CASCADE;
