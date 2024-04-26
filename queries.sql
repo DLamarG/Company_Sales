@@ -32,3 +32,20 @@ ORDER BY vendcity;
  Redmond      | {"Kona, Incorporated"}
  Santa Monica | {"Sun Sports Suppliers"}
  St. Louis    | {"Viscount"}
+
+
+
+
+SELECT vendname AS Vendors from vendors;
+        vendors         
+------------------------
+ Shinoman, Incorporated
+ Viscount
+ Nikoma of America
+ ProFormance
+ Kona, Incorporated
+ Big Sky Mountain Bikes
+ Dog Ear
+ Sun Sports Suppliers
+ Lone Star Bike Supply
+ Armadillo Brand
