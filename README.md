@@ -34,11 +34,19 @@ Database Schema
 The database schema consists of the following tables:
 
 Customers: Stores information about customers.
+
 Employees: Stores information about employees.
+
 Vendors: Stores information about vendors.
+
 Categories: Stores product categories.
+
 Products: Stores information about products, including their category.
+
 Orders: Stores information about orders, including customer and employee IDs.
+
 Order_Details: Stores details about products included in each order.
+
 Product_Vendors: Stores information about vendors supplying each product.
+
 For detailed information about the schema and table structures, refer to the init.sql file.
