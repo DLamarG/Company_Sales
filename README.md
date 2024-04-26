@@ -30,8 +30,9 @@ The database will be accessible on localhost:5477.
 Database Initialization
 Upon running the Docker container, the initialization script init.sql will be executed automatically. This script creates the sales database and sets up the necessary tables and constraints.
 
-Database Schema
-The database schema consists of the following tables:
+### Database Schema
+
+_The database schema consists of the following tables:_
 
 Customers: Stores information about customers.
 
