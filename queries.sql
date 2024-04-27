@@ -14,8 +14,6 @@ SELECT * FROM employees;
 
 
 
-
-
 SELECT vendcity, array_agg(vendname) AS vendors
 FROM vendors     
 GROUP BY vendcity
@@ -49,3 +47,6 @@ SELECT vendname AS Vendors from vendors;
  Sun Sports Suppliers
  Lone Star Bike Supply
  Armadillo Brand
+
+
+
